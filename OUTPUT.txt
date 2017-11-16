@@ -1,0 +1,14 @@
+Author: Jimmy Li, #29903320, NetID: jli119
+Date: April 29, 2017
+Course: CSC172, Professor Ted Pawlicki
+Assignment: Output of Project4
+Title: OUTPUT.txt
+
+When my arguments are: "ur.txt true null null true" my output is:
+List of All Roads Traveled in Meridian Map:
+r3, r4, r180, r6, r7, r8, r9, r90, r181, r93, r96, r98, r11, r99, r14, r178, r179, r19, r174, r175, r176, r177, r173, r21, r20, r22, r167, r24, r168, r26, r28, r120, r122, r32, r34, r118, r113, r37, r115, r39, r41, r40, r105, r45, r47, r101, r102, r142, r52, r140, r54, r138, r53, r139, r56, r55, r58, r135, r136, r59, r137, r130, r133, r127, r128, r67, r123, r68, r125, r126, r164, r165, r160, r161, r73, r162, r76, r156, r79, r159, r153, r154, r83, r150, r84, r151, r87, r86, r146, r147, r1
+
+When my arguments are: "ur.txt true GOERGEN-ATHLETIC CSB false" my output is:
+Shortest Path: 
+Start > GOERGEN-ATHLETIC > i54 > i30 > i33 > WILSON > RETTNER > i39 > TUNNEL-MOREY > TUNNEL-HOYT > i65 > i66 > i68 > i70 > i75 > CSB > Finish
+Total Distance Traveled: 0.3845023132748515 miles
